@@ -1,0 +1,14 @@
+# Ignorar archivos y directorios generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Carpeta de node_modules generada por Node.js
+node_modules/
+
+# Carpeta de archivos compilados o construidos
+/build/
+/dist/
+
+# Archivos de configuración específicos de IDEs
+.idea/
+.vscode/
